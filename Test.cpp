@@ -1,4 +1,6 @@
 #include <iostream>
-#include <string>
+using namespace std;
 int main(){
-std::cout << "This is test CPP file.";
+cout << "This a test CPP file." << endl;
+cout << "Lolo!" << endl;
+}
